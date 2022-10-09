@@ -4,6 +4,7 @@ import Sneaker from "./main/Sneaker.component";
 import Cart from "./cart/Cart.component";
 
 const App = () => {
+  alert('hacket')
   return (
     <div className="relative">
       <Cart />
